@@ -110,6 +110,6 @@ class FSOINet(nn.Module):
             x = self.fcs1[i](x)
         x = self.conv2(x)
 
-        phi_cons = torch.mm(self.Phi, self.Phi.t()).squeeze().squeeze()
+        phi_cons = torch.mm(self.Phi, self.Phi.t())
 
         return x, phi_cons

@@ -37,4 +37,12 @@ Users can download the pre-processed training set from [GoogleDrive](https://dri
 
 ## Citation
 If you find the code helpful in your research or work, please cite our papers.
-
+```
+@INPROCEEDINGS{9746648,
+  author={Chen, Wenjun and Yang, Chunling and Yang, Xin},
+  booktitle={ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={FSOINET: Feature-Space Optimization-Inspired Network For Image Compressive Sensing}, 
+  year={2022},
+  pages={2460-2464},
+  doi={10.1109/ICASSP43922.2022.9746648}}
+```
